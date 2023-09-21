@@ -2,9 +2,13 @@
 
 Digiledger is an expense tracker and transaction management web application.
 
-- Live: [https://digiledger.vercel.app/](https://digiledger.vercel.app/)
-- Frontend: [https://github.com/AnshumanMahato/DigiLedger-Frontend](https://github.com/AnshumanMahato/DigiLedger-Frontend)
-- Backend: [https://github.com/AnshumanMahato/DigiLedger-Backend](https://github.com/AnshumanMahato/DigiLedger-Backend)
+## Links
+
+<div align="center">  
+  <a href="https://digiledger.vercel.app/">:_Live_Site_:</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AnshumanMahato/DigiLedger-Frontend">:_Frontend_:</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AnshumanMahato/DigiLedger-Backend">:_Backend_:</a>
+</div>
 
 ## Features
 ### Current Features
