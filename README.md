@@ -2,6 +2,10 @@
 
 Digiledger is an expense tracker and transaction management web application.
 
+- Live: [https://digiledger.vercel.app/](https://digiledger.vercel.app/)
+- Frontend: [https://github.com/AnshumanMahato/DigiLedger-Frontend](https://github.com/AnshumanMahato/DigiLedger-Frontend)
+- Backend: [https://github.com/AnshumanMahato/DigiLedger-Backend](https://github.com/AnshumanMahato/DigiLedger-Backend)
+
 ## Features
 ### Current Features
   - Record Transactions
@@ -19,5 +23,24 @@ Digiledger is an expense tracker and transaction management web application.
 - ExpressJS
 - MongoDB + Mongoose
 
+## Deployment
+
+You need to deploy frontend and backend separately. Look into the respective repositories for individual installation guides.
+
 ## License
 [MIT](LICENSE.md)
+
+## Support
+
+If you have any queries or need some help, you may contact me here
+
+<div align="center">
+
+<a href="https://t.me/AnshumanMahato"><img src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" height="50px"></a>
+<a href="mailto:anshuman.mahato0935@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" height="50px"></a>
+
+---
+
+Made with 💖 by Anshuman Mahato
+
+</div>
